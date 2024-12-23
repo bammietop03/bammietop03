@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/bammie_m" target="blank"><img src="https://img.shields.io/twitter/follow/bammie_m?logo=twitter&style=for-the-badge" alt="bammie_m" /></a> </p>
 
-- 🌱 I’m currently learning **Software Engineer(Backend)**
-
-- 💬 Ask me about **Phyton, C, Git,**
+- 💬 Ask me about **Phyton, C, Typescript, DevOps,**
 
 - 📫 How to reach me **bammietop@gmail.com**
 
